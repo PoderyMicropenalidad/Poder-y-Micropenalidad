@@ -1,12 +1,10 @@
 nav {
- font-family: Georgia;
+  font-family: Georgia;
   font-size: 15px;
-  margin-right: 60px;
   color: #000;
-  font-weight: 100px;
-  border-style: solid;
+  font-weight: 100;
+  border: 2px solid #000;
   margin: 50px;
-  Padding: 10px;
+  padding: 10px;
   text-align: center;
-    
 }
