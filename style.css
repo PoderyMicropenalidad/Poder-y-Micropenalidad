@@ -9,3 +9,9 @@ nav {
       text-align: center;
       padding: 10px;
     }
+  p {
+    text-align: justify;
+    text-align-last: center;
+    font-family: Georgia;
+    font-size: 12px;
+  }
