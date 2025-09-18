@@ -1,13 +1,8 @@
----
-layout: page
-title: Bibliografía
-subtitle: Metodología de la Investigación Social
-permalink: bibliography
----
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<h1> Articulos publicados </h1>
+<p>Descubre los dsitintos articulos que realizamos tras una ardua investigacion </p>
 
-Aquí puedes encontrar diversas referencias bibliográficas a libros y documentos de apoyo.
-
-En el proceso de selección de la bibliografía cuidamos que todos los datos estuvieran correctamente referidos, para que no tengas problema en localizarlos. 
-
-
-***Créditos:**
+  <link rel="stylesheet" href="style.css">
