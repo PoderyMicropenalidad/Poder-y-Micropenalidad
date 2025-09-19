@@ -17,8 +17,8 @@ nav {
     line-height: 1.6;
   }
     .tarjeta a {
-      text-decoration: none;
-      color: #007acc;
+    color: blue;
+    text-decoration: underline;
       font-weight: bold;
       font-size: 1.1em;
     }
