@@ -16,3 +16,9 @@ nav {
     font-size: 16px;
     line-height: 1.6;
   }
+    .tarjeta a {
+      text-decoration: none;
+      color: #007acc;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
