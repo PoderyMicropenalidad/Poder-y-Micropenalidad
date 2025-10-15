@@ -3,8 +3,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <h1> Articulos publicados </h1>
-<img src="Images/article_22117_cover_es_ES.jpg" height=100 width=70> 
-<a href="https://espaciospublicos.uaemex.mx/article/view/22117" target="_blank"> ¿Interés superior de la niñez o subsistencia de las madres para resistir la reclusión? Revisión crítica de las maternidades en prisión en México y Latinoamérica </a> 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<img src="Images/article_22117_cover_es_ES.jpg" " alt="Portada" style="width: 80px; margin-right: 15px;”> 
+<a href="https://espaciospublicos.uaemex.mx/article/view/22117" target="_blank"> ¿Interés superior de la niñez o subsistencia de las madres para resistir la reclusión? Revisión crítica de las maternidades en prisión en México y Latinoamérica </a>
+
   
 
 <img src="Images/article_24347_cover_es_ES.jpg" height=100 width=70 align:left>
