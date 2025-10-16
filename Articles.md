@@ -4,11 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <h1> Articulos publicados </h1>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img src="Images/article_22117_cover_es_ES.jpg"  style="width: 80px; margin-right: 15px;”> 
+<img src="Images/article_22117_cover_es_ES.jpg" > 
 <a href="https://espaciospublicos.uaemex.mx/article/view/22117" target="_blank"> ¿Interés superior de la niñez o subsistencia de las madres para resistir la reclusión? Revisión crítica de las maternidades en prisión en México y Latinoamérica </a>
   
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img src="Images/article_24347_cover_es_ES.jpg" alt="Portada" style="width: 80px; margin-right: 15px;”>
+<img src="Images/article_24347_cover_es_ES.jpg">
   <a href="https://espaciospublicos.uaemex.mx/article/view/24347" target="_blank"> Revisión genealógica de relaciones de poder en la normalización de la maternidad en reclusión penitenciaria: análisis en dos centros penitenciarios del Estado de México </a> 
   
   <link rel="stylesheet" href="style.css">
