@@ -10,8 +10,8 @@ nav {
       padding: 10px;
     }
   p {
-    text-align: left;
-    text-align-last: center;
+    text-align: center;
+  text-align-last: left;
     font-family: Arial;
     font-size: 16px;
     line-height: 1.6;
