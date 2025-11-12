@@ -32,7 +32,7 @@
   <!-- Ventana emergente -->
   <div id="infoModal" class="modal">
     <div class="modal-content">
-      <span class="cerrar" onclick="cerrarInfo(luis)">&times;</span>
+      <span class="cerrar" onclick="cerrarInfo('antonio')">&times;</span>
       <div id="infoTexto"></div>
     </div>
   </div>
