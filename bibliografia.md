@@ -65,7 +65,7 @@
 <h2>Cuerpo Académico</h2>
 
 
-<img src="foto-draAlma.jpg" alt="Dra. Alma Liliana Díaz Martínez" class="profile" id="openModal">
+<img src="Images/Foto-draAlma.jpg" alt="Dra. Alma Liliana Díaz Martínez" class="profile" id="openModal">
 
 
 <div id="myModal" class="modal">
