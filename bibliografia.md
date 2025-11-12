@@ -25,7 +25,6 @@
     transform: scale(1.05);
   }
 
-  /* Fondo del modal */
   .modal {
     display: none;
     position: fixed;
@@ -35,7 +34,6 @@
     background-color: rgba(0,0,0,0.7);
   }
 
-  /* Contenedor del texto */
   .modal-content {
     background-color: white;
     margin: 10% auto;
@@ -47,7 +45,6 @@
     position: relative;
   }
 
-  /* Botón de cierre */
   .close {
     color: #555;
     position: absolute;
