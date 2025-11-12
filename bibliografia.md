@@ -12,7 +12,6 @@
     padding: 40px;
   }
 
-  /* Imagen circular */
   .profile {
     width: 150px;
     height: 150px;
