@@ -10,7 +10,7 @@
 
   <div class="grid">
     <div class="card" onclick="mostrarInfo('luis')">
-      <img src="Imagenes/FotoLuis.webp" alt="Dr. Luis Alfonso Guadarrama Rico">
+      <img src="Imagenes/FotoLuis.webp" >
       <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
     </div>
     <div class="card" onclick="mostrarInfo('antonio')">
