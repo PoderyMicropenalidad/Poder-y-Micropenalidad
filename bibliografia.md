@@ -11,7 +11,6 @@
   <div class="grid">
     <div class="card" onclick="mostrarInfo('luis')">
       <img src="https://github.com/PoderyMicropenalidad/Poder-y-Micropenalidad/blob/03008b41c61452e9bd69ed5c3d115afc65a1bff9/Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico">
-      <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
     </div>
     <div class="card" onclick="mostrarInfo('antonio')">
       <img src="Imagenes/FotoAQuintero.jpg" alt="Mtro. Antonio Quintero Zamora">
