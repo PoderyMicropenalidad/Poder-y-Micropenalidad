@@ -10,6 +10,7 @@
    <div class="card" onclick="mostrarInfo('luis')">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
 <img src="Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico" style="width:150px; height:100px; margin-right: 10px:"> 
+     <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
     </div>
     <div class="card" onclick="mostrarInfo('antonio')">
       <img src="Imagenes/FotoAQuintero.jpg" alt="Mtro. Antonio Quintero Zamora">
@@ -27,10 +28,9 @@
       <img src="Imagenes/FotoLicAndrea.jpg" alt="Lic. Andrea Teresa Rojo Nápoles">
       <p><strong>Lic. Andrea Teresa Rojo Nápoles García</strong></p>
     </div>
-  <!-- Ventana emergente -->
   <div id="infoModal" class="modal">
     <div class="modal-content">
-      <span class="cerrar" onclick="cerrarInfo('antonio')">&times;</span>
+      <span class="cerrar" onclick="cerrarInfo('luis')">&times;</span>
       <div id="infoTexto"></div>
     </div>
   </div>
