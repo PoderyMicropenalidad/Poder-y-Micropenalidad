@@ -13,19 +13,19 @@
      <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
     </div>
     <div class="card" onclick="mostrarInfo('antonio')">
-      <img src="Imagenes/FotoAQuintero.jpg" alt="Mtro. Antonio Quintero Zamora">
+      <img src="Images/FotoAQuintero.jpg" alt="Mtro. Antonio Quintero Zamora">
       <p><strong>Mtro. Antonio Quintero Zamora</strong></p>
     </div>
     <div class="card" onclick="mostrarInfo('alma')">
-      <img src="imagenes/fotodraAlma.jpg" alt="Dra. Alma Liliana Díaz Martínez">
+      <img src="images/fotodraAlma.jpg" alt="Dra. Alma Liliana Díaz Martínez">
       <p><strong>Alma Liliana Díaz Martínez</strong></p>
     </div>
  <div class="card" onclick="mostrarInfo('sandra')">
-      <img src="Imagenes/FotoLicSandra.jpg" alt="Lic. Sandra Lorena Padilla García">
+      <img src="Images/FotoLicSandra.jpg" alt="Lic. Sandra Lorena Padilla García">
       <p><strong>Lic. Sandra Lorena Padilla García</strong></p>
     </div>
      <div class="card" onclick="mostrarInfo('andrea<<<<<')">
-      <img src="Imagenes/FotoLicAndrea.jpg" alt="Lic. Andrea Teresa Rojo Nápoles">
+      <img src="Images/FotoLicAndrea.jpg" alt="Lic. Andrea Teresa Rojo Nápoles">
       <p><strong>Lic. Andrea Teresa Rojo Nápoles García</strong></p>
     </div>
   <div id="infoModal" class="modal">
