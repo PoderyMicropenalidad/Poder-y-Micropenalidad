@@ -7,6 +7,9 @@
 </head>
 <body>
   <h1>Equipo Académico</h1>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+<img src="Images/article_22117_cover_es_ES.jpg" style="width:150px; height:100px; margin-right: 10px:"> 
+<a href="https://espaciospublicos.uaemex.mx/article/view/22117" target="_blank"> ¿Interés superior de la niñez o subsistencia de las madres para resistir la reclusión? Revisión crítica de las maternidades en prisión en México y Latinoamérica </a>
     <div class="card" onclick="mostrarInfo('luis')">
       <img src="https://github.com/PoderyMicropenalidad/Poder-y-Micropenalidad/blob/03008b41c61452e9bd69ed5c3d115afc65a1bff9/Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico">
     </div>
