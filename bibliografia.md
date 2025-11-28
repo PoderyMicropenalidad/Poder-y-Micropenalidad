@@ -7,8 +7,6 @@
 </head>
 <body>
   <h1>Equipo Académico</h1>
-
-  <div class="grid">
     <div class="card" onclick="mostrarInfo('luis')">
       <img src="https://github.com/PoderyMicropenalidad/Poder-y-Micropenalidad/blob/03008b41c61452e9bd69ed5c3d115afc65a1bff9/Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico">
     </div>
