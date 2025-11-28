@@ -9,7 +9,7 @@
   <h1>Equipo Académico</h1>
    <div class="card" onclick="mostrarInfo('luis')">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img src="https://github.com/PoderyMicropenalidad/Poder-y-Micropenalidad/blob/03008b41c61452e9bd69ed5c3d115afc65a1bff9/Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico" style="width:150px; height:100px; margin-right: 10px:"> 
+<img src="Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico" style="width:150px; height:100px; margin-right: 10px:"> 
     </div>
     <div class="card" onclick="mostrarInfo('antonio')">
       <img src="Imagenes/FotoAQuintero.jpg" alt="Mtro. Antonio Quintero Zamora">
