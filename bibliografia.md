@@ -7,7 +7,16 @@
 </head>
 <body>
   <h1>Equipo Académico</h1>
-   <div class="card" onclick="mostrarInfo('luis')">
+ <div class="card" onclick="toggleInfo('luis')">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+        <img src="Images/fotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico" style="width:150px; height:100px; margin-right: 10px;">
+        <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
+    </div>
+</div>
+
+<div id="info-luis" class="info">
+    <p>Aquí va la información completa del Dr. Luis...</p>
+</div>
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
 <img src="Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico" style="width:150px; height:100px; margin-right: 10px:"> 
      <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
