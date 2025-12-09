@@ -76,3 +76,23 @@ body {
   font-size: 25px;
   cursor: pointer;
 }
+<style>
+.info {
+    display: none;
+    background: #f2f2f2;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+.card {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.card img {
+    margin-right: 15px;
+    border-radius: 8px;
+}
+</style>
