@@ -33,7 +33,7 @@
 <body>
 <div class="academico-card" onclick="toggleInfo('luis')">
     <div style="display:flex; align-items:center;">
-        <img class="academico-img" src="Images/fotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico">
+        <img class="academico-img" src="Images/FotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico">
         <h3>Dr. Luis Alfonso Guadarrama Rico</h3>
     </div>
 </div>
