@@ -8,7 +8,7 @@
 <body>
 <div class="academico">
     <div class="card" onclick="toggleInfo('luis')">
-        <img src="Images/fotoLuis.jpg" alt="Dr. Luis" style="width:150px;">
+        <img src="Images/FotoLuis.jpg" alt="Dr. Luis" style="width:150px;">
         <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
     </div>
     <div id="info-luis" class="info">
