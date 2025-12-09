@@ -13,7 +13,6 @@
         <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
     </div>
 </div>
-
 <div id="info-luis" class="info">
     <p>Aquí va la información completa del Dr. Luis...</p>
 </div>
