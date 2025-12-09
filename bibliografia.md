@@ -1,19 +1,45 @@
 <html lang="es">
 <head>
+  <style>
+.academico-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.academico-card:hover {
+    background: #f7f7f7;
+}
+.academico-info {
+    display: none;
+    padding: 15px;
+    background: #f2f2f2;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.academico-img {
+    width: 120px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Equipo Académico</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="academico">
-    <div class="card" onclick="toggleInfo('luis')">
-        <img src="Images/FotoLuis.jpg" alt="Dr. Luis" style="width:150px;">
-        <p><strong>Dr. Luis Alfonso Guadarrama Rico</strong></p>
+<div class="academico-card" onclick="toggleInfo('luis')">
+    <div style="display:flex; align-items:center;">
+        <img class="academico-img" src="Images/fotoLuis.jpg" alt="Dr. Luis Alfonso Guadarrama Rico">
+        <h3>Dr. Luis Alfonso Guadarrama Rico</h3>
     </div>
-    <div id="info-luis" class="info">
-        <p>Doctor en educación, especialista en… (información completa)</p>
-    </div>
+</div>
+
+<div id="info-luis" class="academico-info">
+    <p><strong>Grado académico:</strong> Doctor en Educación</p>
 </div>
     <div class="card" onclick="mostrarInfo('antonio')">
        <div style="display: flex; align-items: center; margin-bottom: 25px;">
